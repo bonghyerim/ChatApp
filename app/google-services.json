@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414979136753",
+    "project_id": "hip-service-393207",
+    "storage_bucket": "hip-service-393207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414979136753:android:6bffea64623c423d189d50",
+        "android_client_info": {
+          "package_name": "com.bonghyerim.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414979136753-28fia1ddt8miinllevrhl5ai9magv2vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLcpbPi0ciaVSc1_G08hY0kUA3kwPoGPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414979136753-28fia1ddt8miinllevrhl5ai9magv2vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
